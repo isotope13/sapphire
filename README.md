@@ -1,3 +1,5 @@
+### REGION North America 
+
 ### VOTE ADDRESS:  RAyYbRv6kKjk9m4r267pR9bGY9Fk1yuJ5R
 
 ### SERVERS
